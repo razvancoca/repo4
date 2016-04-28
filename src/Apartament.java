@@ -7,6 +7,8 @@ public class Apartament extends Imobil {
 		System.out.println("Apartament vandut");
 	}
 
+	//adsa
+
 	@Override
 	public void inchiriaza() {
 		System.out.println("Apartament inchiriat");
